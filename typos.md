@@ -4,7 +4,7 @@ I've created this document in an effort to give you all more pracical expereince
 Follow the instructions [here](https://github.com/firstcontributions/first-contributions) to make your first git pull request, if you haven't already done so. You'll basically follow the same process for this exercise, but we'll do more of a back and forth.
 
 # Instructions
-Now, go into my git repo and find the repository called *gittraining*. Inside of this repo is a document titled **typos.md**. The document contains a section for each of you with a snippet of javascript code that I want you to modify according to the instructions in your section. 
+Inside of this repo is a document titled **typos.md**. The document contains a section for each of you with a snippet of javascript code that I want you to modify according to the instructions in your section. 
 
 You can take the code and work with it in the browser or node, it doesn't matter which. Once you have a solution, working or not, replace the malfunctioning code snippet in your section with your code and submit a pull request.
 
