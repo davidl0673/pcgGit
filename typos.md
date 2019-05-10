@@ -44,7 +44,7 @@ Fix the code below so that *1 2 3* is logged to the console instead of *1 undefi
   }
 ```
 
-## Sara
+## Sarah
 Rewrite the following using a switch statement:
 
 ```javascript
