@@ -20,9 +20,9 @@ Edit the code below to output *1 2* to the console instead of *2 2*. *NOTE:* Don
 
 ```javascript
 function editMe() {
-    var x = 1;
+    let x = 1;
     if (true) {
-        var x = 2;
+        let x = 2;
         console.log(x);
     }
     console.log(x);
